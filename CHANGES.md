@@ -4,6 +4,8 @@ Original repository: https://github.com/XintSong/RMSF-net/
 
 In my hand I could not run this software and documented my efforts in the [issues](https://github.com/XintSong/RMSF-net/issues) on the original repository.
 
+ChimeraX versions tested worked from version `1.1.1` to version `1.10.1`. (Version `1.0` did not launch and could not be tested.)
+
 Briefly the changes made to `predict.py` and `gen_data.py` are listed below. Those changes were implemented with the help of Microsoft Copilot [copilot.microsoft.com](copilot.microsoft.com)
 
 ## Changes in `predict.py`
